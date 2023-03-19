@@ -38,6 +38,8 @@ Graph | Summary
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_happy.png?raw=true) | Compared to the top 10 words of all reviews, reviews with a rating of 5 have more top 10 words that explicitly a positive connotation such as “love”, “great”, “east”, “get”, and “bought”
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_disgust.png?raw=true) | The distribution of ratings across all reviews shows very few reviews with a rating of 1 to 3, with most reviews being a 5 star rating. This distribution correlates with our findings of the top 20 words in reviews as most descriptive words we observed are positive
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_neutral.png?raw=true) | The distribution of predicted - actual ratings found with test data. Distribution shows majority of predictions by model makes an accurate prediction of actual rating. However, our model still makes some very inaccurate predictions as shown by 4 and -4 rating differences.
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_angry.png?raw=true) | The distribution of predicted - actual ratings found with test data. Distribution shows majority of predictions by model makes an accurate prediction of actual rating. However, our model still makes some very inaccurate predictions as shown by 4 and -4 rating differences.
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_sad.png?raw=true) | The distribution of predicted - actual ratings found with test data. Distribution shows majority of predictions by model makes an accurate prediction of actual rating. However, our model still makes some very inaccurate predictions as shown by 4 and -4 rating differences.
 
 
 
