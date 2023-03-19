@@ -25,9 +25,10 @@ Emotion  | Train File Frequency  |  Test File Frequency
 Link to data: https://www.kaggle.com/datasets/msambare/fer2013?resource=download 
 
 ### Revelant Notes
-- The data set includes 34,000 consumer reviews of Amazon products such as TVs, computers, speakers, headphones, and more. This data set is a subset of a larger data set acquired from Datafiniti, which is a database that obtains product data from websites. Each individual row represents a single amazon review and the columns represent a different attribute regarding that specific review like date, helpfulness score, recommendation, reviewer username, etc. We retrieved this data on KAGGLE (linked above) in the form of a CSV and will be primarily focused on review text and review rating.
-- The whole data set includes three files. We will only use the file named "1429_1.csv" throughout this project
-- We removed all "reviews.text" empty/null entries
+- We retrieved our data from KAGGLE [1]. The data set includes two folders – train and test – and seven subfolders in each of the train and test folder with each subfolder having jpg images representing one of seven distinct emotions: angry, disgust, fear, happy, neutral, sad, surprise. 
+- The training data set includes a total of 28709 images and the test data set includes a total of 7178 images. 
+- The images are already edited to follow the same format of being grayscale and having 48x48 pixel dimensions. The images are also aligned so that the faces are relatively centered and take up around the same space in the overall image space.
+
 
 ## FIGURES
 Graph | Summary
