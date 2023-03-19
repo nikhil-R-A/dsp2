@@ -12,15 +12,15 @@ Users can use, copy, modify, merge, publish, distribute, and sublicense this sof
 ## DATA
 
 ### Data Dictionary
-Emotion  | Training File Frequency  |  Test File Frequency
-------------- | -------------
- | 
-  | 
-  |  
-  | 
-  | 
-  | 
-  |
+Emotion  | Train File Frequency  |  Test File Frequency
+------------- | ------------- | -------------
+ angry | 3995 | 956
+ disgust | 436 | 111
+ fear |  4097 | 1024
+ happy| 7215 | 1774
+ neutral | 4965 | 1233
+ sad | 4830 | 1247
+ surprise | 3171 | 831
 
 Link to data: https://www.kaggle.com/datasets/msambare/fer2013?resource=download 
 
