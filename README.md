@@ -33,13 +33,13 @@ Link to data: https://www.kaggle.com/datasets/msambare/fer2013?resource=download
 ## FIGURES
 Graph | Summary
 ------------- | -------------
-![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_surprise.png?raw=true) | Many of the top 20 words have an subjectively positive connotation, including “great”, “good”, “bought”, “like”, “love” and “well”. There seems to be little to no words with a subjectively negative connotation. While there are a majority of positive connotation words, we cannot conclude that these words necessarily are used in a context that yields or prompt a higher rating review
-![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_fear.png?raw=true) | Many of the top 10 words in reviews with a rating of 1 have mostly subjectively neutral descriptive words other than “return” which is subjectively negative
-![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_happy.png?raw=true) | Compared to the top 10 words of all reviews, reviews with a rating of 5 have more top 10 words that explicitly a positive connotation such as “love”, “great”, “east”, “get”, and “bought”
-![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_disgust.png?raw=true) | The distribution of ratings across all reviews shows very few reviews with a rating of 1 to 3, with most reviews being a 5 star rating. This distribution correlates with our findings of the top 20 words in reviews as most descriptive words we observed are positive
-![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_neutral.png?raw=true) | The distribution of predicted - actual ratings found with test data. Distribution shows majority of predictions by model makes an accurate prediction of actual rating. However, our model still makes some very inaccurate predictions as shown by 4 and -4 rating differences.
-![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_angry.png?raw=true) | The distribution of predicted - actual ratings found with test data. Distribution shows majority of predictions by model makes an accurate prediction of actual rating. However, our model still makes some very inaccurate predictions as shown by 4 and -4 rating differences.
-![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_sad.png?raw=true) | The distribution of predicted - actual ratings found with test data. Distribution shows majority of predictions by model makes an accurate prediction of actual rating. However, our model still makes some very inaccurate predictions as shown by 4 and -4 rating differences.
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_surprise.png?raw=true) | Average image generation of all surprise images in training set
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_fear.png?raw=true) | Average image generation of all fear images in training set
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_happy.png?raw=true) | Average image generation of all happy images in training set
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_disgust.png?raw=true) | Average image generation of all disgust images in training set
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_neutral.png?raw=true) | Average image generation of all neutral images in training set
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_angry.png?raw=true) | Average image generation of all angry images in training set
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_sad.png?raw=true) | Average image generation of all sad images in training set
 
 
 
