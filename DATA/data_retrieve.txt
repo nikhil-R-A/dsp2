@@ -1,0 +1,1 @@
+To obtain the data set, go to https://www.kaggle.com/datasets/msambare/fer2013?resource=download&select=test and click download in the upper right corner. The dowloaded folder will contain two folders -- train and test. Each of the two folders contain images of seven distinct emotions: angry, disgust, fear, surprise, neutral, happy, sad.
