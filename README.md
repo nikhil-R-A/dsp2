@@ -33,6 +33,8 @@ Link to data: https://www.kaggle.com/datasets/msambare/fer2013?resource=download
 ## FIGURES
 Graph | Summary
 ------------- | -------------
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/train_counts.png.png?raw=true) | Number of images for each emotion in training set
+![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/test_counts.png?raw=true) | Number of images for each emotion in test set
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_surprise.png?raw=true) | Average image generation of all surprise images in training set
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_fear.png?raw=true) | Average image generation of all fear images in training set
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_happy.png?raw=true) | Average image generation of all happy images in training set
@@ -40,6 +42,7 @@ Graph | Summary
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_neutral.png?raw=true) | Average image generation of all neutral images in training set
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_angry.png?raw=true) | Average image generation of all angry images in training set
 ![alt text](https://github.com/nikhil-R-A/dsp2/blob/main/FIGURES/average_sad.png?raw=true) | Average image generation of all sad images in training set
+
 
 
 
