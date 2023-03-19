@@ -54,3 +54,6 @@ Graph | Summary
 [2]	B. Taha, “What is SVM: Build an image classifier with SVM,” Analytics Vidhya,		27-Aug-2021. [Online]. Available:									https://www.analyticsvidhya.com/blog/2021/06/build-an-image-classifier-	
 with-svm/#:~:text=The%20main%20advantage%20of%20SVM,Object%20Detection%20and%20image%20classification. [Accessed: 14-Mar-2023]. 
 
+### Acknowledgements
+Special thanks to Professor Alonzi and Daiqing Qi
+
